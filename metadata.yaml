@@ -6,6 +6,9 @@ contributor:
     birthdate: 1884
     gutenberg_agent_id: '28332'
     url: http://www.gutenberg.org/2009/agents/28332
+covers:
+- cover_type: archival
+  image_path: 58042-h/images/cover.jpg
 creator:
   author:
     agent_name: Crownfield, Gertrude
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '28333'
     url: http://www.gutenberg.org/2009/agents/28333
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58042#Princess-White-Flame
 gutenberg_issued: '2018-10-06'
 gutenberg_type: Text
 identifiers:
